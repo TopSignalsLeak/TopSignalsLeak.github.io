@@ -1,0 +1,7 @@
+# robots.txt for topsignalleaks.netlify.app
+# Allow search engines to crawl the public landing page.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://topsignalleaks.netlify.app/sitemap.xml
