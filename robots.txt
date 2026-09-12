@@ -1,7 +1,8 @@
 # robots.txt for topsignalleaks.netlify.app
-# Allow search engines to crawl the public landing page.
-
 User-agent: *
 Allow: /
+Allow: /channels/
+Allow: /categories/
+Disallow: /logos/
 
 Sitemap: https://topsignalleaks.netlify.app/sitemap.xml
