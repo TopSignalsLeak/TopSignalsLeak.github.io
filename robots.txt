@@ -1,8 +1,8 @@
-# robots.txt for topsignalleak.github.io
+# robots.txt for topsignalleaks.netlify.app
 User-agent: *
 Allow: /
 Allow: /channels/
 Allow: /categories/
 Disallow: /logos/
 
-Sitemap: https://topsignalsleak.github.io/sitemap.xml
+Sitemap: https://topsignalleaks.netlify.app/sitemap.xml
