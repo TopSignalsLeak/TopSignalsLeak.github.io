@@ -1,8 +1,5 @@
-# robots.txt for topsignalleaks.netlify.app
+# robots.txt for topsignalsleak.github.io
+# This mirror points its canonical URLs to https://topsignalleaks.netlify.app
+# Keep crawling enabled so Google can read the rel=canonical tags.
 User-agent: *
 Allow: /
-Allow: /channels/
-Allow: /categories/
-Disallow: /logos/
-
-Sitemap: https://topsignalleaks.netlify.app/sitemap.xml
